@@ -53,7 +53,7 @@
     content: '+';
     color: #adadad;
     top: 546px;
-    left: 458px;
+    left: 740px;
 }
 
 .canvas::after,
@@ -68,7 +68,7 @@
     height: 1px;
     background: #adadad;
     top: 510px;
-    left: 465px;
+    left: 746px;
 }
 
 .chart {
